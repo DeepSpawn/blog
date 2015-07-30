@@ -1,1 +1,1 @@
-gem 'jeykll'
+gem 'github-pages'
