@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello I am Gene Taylor, a software developer living in Sydney. I first got into programming by hacking together games on the [Casio fx-9750G](http://www.casio-intl.com/asia-mea/en/calc/pastmodels/product_list?m_no=258) using Casio BASIC. These days I tend to use Java and Javascript in my day to day, but I have done some work in Microsoft land with C#. At the moment I am loving working with Java 8, lambdas are a lot fun.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I started my Proessional Career at the start of 2015, relocating from New Zealand to Australia to start working for the wonderful people at [Atlassian](https://www.atlassian.com/). I currently work on the team resposible for integrating Jira with Developement tools.
 
-There are currently two themes built on Poole:
+Having relatively recently started in the industry I have found that well written blogpposts are a goldmine of useful information for a long while after they are written. This is my attempt to positively give something back to the wider developer community. It is mostly observations and notes of things I have picked up thus far as a journeyman software developer.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This is my personal blog and all views expressed here belong to me alone and not those of my employer. So if/when I say something inaccurate or stupid then it rests solely on my shoulders.   

@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Gene T Taylor
+tagline:             Software etc
+url:                 http://genetaylor.bitbucket.org
 paginate:            1
 baseurl:             ""
 
@@ -20,14 +20,10 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Gene Taylor
+  url:               https://twitter.com/SplicedGene
+  email:             Gene.T.Taylor@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
 
 #pages in the navigation bar
 pages_list:       
