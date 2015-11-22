@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Gene T Taylor
 tagline:             Software etc
-url:                 http://genetaylor.bitbucket.org
+url:                 http://gene-t-taylor.com
 paginate:            1
 baseurl:             ""
 
