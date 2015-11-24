@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Git Prepare Commit Message
+desc: "How to use a Git prepre commit message hook to automatically add your issue key to your commit message"
+keywords: "Git, Githooks, Jira, automate,prepare-commit-msg"
 ---
 
 If you have workflow that involves including Issue keys in your commit messages and branch names then you should be using a git hook to make your workflow more efficient.

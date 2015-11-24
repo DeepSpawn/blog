@@ -5,8 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>
-      {{ page.title }}
+      {{ page.title }} &middot; {{ site.title }}
   </title>
+  
+  {% if page.desc %}
+  <meta name="description" content="{{ page.desc }}" />
+  {% else %}
+  <meta name="description" content="I am a fullstack developer with a passion for code quality"/>
+  {% endif %}
+  
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+  <!--<meta name="keywords" content="" />-->
+  {% endif %}
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
