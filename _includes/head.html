@@ -6,20 +6,15 @@
 
   <title>
       {{ page.title }} &middot; {{ site.title }}
-  </title>
+ </title>
   
-  {% if page.desc %}
-  <meta name="description" content="{{ page.desc }}" />
-  {% else %}
-  <meta name="description" content="I am a fullstack developer with a passion for code quality"/>
-  {% endif %}
-  
-  {% if page.keywords %}
-  <meta name="keywords" content="{{ page.keywords }}" />
-  {% else %}
-  <!--<meta name="keywords" content="" />-->
+  {% if page.description %}
+  <meta name="description" content="{{ page.description}}" />
   {% endif %}
 
+  {%if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+  {% endif %}
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <!-- <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'> -->

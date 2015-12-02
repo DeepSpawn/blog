@@ -19,13 +19,14 @@
 
       <main>
         {{ content }}
-        {% include comments.html %}
       </main>
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Blog licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0  License</a>.
+          Unless stated otherwise code samples are licensed under the <a href="http://sm.mit-license.org/"> MIT license</a> 
         </small>
+           
       </footer>
     </div>
 
