@@ -5,9 +5,9 @@ permalink:           pretty
 
 # Setup
 title:               Gene T Taylor
-tagline:             Software etc
+tagline:             
 url:                 http://gene-t-taylor.com
-paginate:            4
+paginate:            1
 baseurl:             ""
 
 # Assets

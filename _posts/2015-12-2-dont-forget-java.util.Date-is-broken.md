@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dont forget java.sql.Timestamp is broken
+title: java.sql.Timestamp is Broken
 description: One of the bugs you can encounter with java.util.Date
 tags: [Java, Object-Orientied-Programming]
 ---
@@ -42,8 +42,6 @@ are a bit broken and they should not be mixed.
 
 >Due to the differences between the Timestamp class and the java.util.Date class mentioned above, it is recommended that code not view Timestamp values generically as an instance of java.util.Date. The inheritance relationship between Timestamp and java.util.Date really denotes implementation >inheritance, and not type inheritance.
 
-This provides little solance when someone else has used a Timestamp generically as a Date and you have to figure this out after the fact.
+This provides little help when someone else has used Timestamp as a Date and you have to figure this out after the fact.
 
-TL:DR Just use the new [java.time](https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html)
-
-  
+**/rant**
