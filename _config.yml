@@ -38,4 +38,4 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-sitemap]
